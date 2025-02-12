@@ -1,0 +1,21 @@
+SortIncludes: Never
+ColumnLimit: 80
+IndentWidth: 4
+TabWidth: 4
+UseTab: ForIndentation
+PointerAlignment: Right
+ReferenceAlignment: Right
+AllowShortFunctionsOnASingleLine: Empty
+AllowShortBlocksOnASingleLine: Empty
+AllowShortEnumsOnASingleLine: false
+AlignConsecutiveMacros: AcrossEmptyLines
+AlignConsecutiveAssignments: Consecutive
+AlignTrailingComments:
+  Kind: Always
+  OverEmptyLines: 2
+AlignOperands: Align
+AlignArrayOfStructures: Left
+AlignEscapedNewlines: Right
+AlignAfterOpenBracket: BlockIndent
+BreakAfterAttributes: Always
+BreakTemplateDeclarations: Yes
