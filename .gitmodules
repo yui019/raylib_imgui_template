@@ -1,9 +1,12 @@
 [submodule "extern/raylib"]
 	path = extern/raylib
 	url = https://github.com/raysan5/raylib
+	shallow = true
 [submodule "extern/imgui"]
 	path = extern/imgui
 	url = https://github.com/ocornut/imgui/
+	shallow = true
 [submodule "extern/rlImGui"]
 	path = extern/rlImGui
 	url = https://github.com/raylib-extras/rlImGui.git
+	shallow = true
